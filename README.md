@@ -37,7 +37,7 @@ The architecture combines Inception modules, deconvolutional layers, and residua
 - **Residual Blocks**: Alleviate vanishing gradient problems and enhance training stability.
 - **Deconvolutional Layers**: Restore spatial details lost during downsampling.
 
-![Architecture Diagram](link-to-your-architecture-diagram)
+
 
 ## Data Preparation
 
